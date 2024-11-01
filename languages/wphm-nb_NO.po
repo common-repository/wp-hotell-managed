@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Hotell Managed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-18 02:05+0400\n"
+"PO-Revision-Date: 2019-10-18 10:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bokmål (Norway)\n"
+"Language: nb-NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wphotell-managed.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"\n"
+"X-Loco-Parser: loco_parse_po"
+
+#. Plugin Name of the plugin/theme
+#: wphotell-managed.php:43
+msgid "WP Hotell Managed"
+msgstr "WP Hotell Administrert"
+
+#: wphotell-managed.php:86
+msgid "Settings for managed sites"
+msgstr "Innstillinger for administrerte sider"
+
+#: wphotell-managed.php:94
+msgid "Limit number of login attempts (3 times)"
+msgstr "Begrens antall login-forsøk (3 ganger)"
+
+#: wphotell-managed.php:96
+msgid "Show \"This site is Managed\" login logo"
+msgstr "Vis \"Denne siden er administrert\" login logo"
+
+#: wphotell-managed.php:98
+msgid "Disable admin notices"
+msgstr "Deaktiver administrative varsler"
+
+#: wphotell-managed.php:100
+msgid "Disable automatic updates"
+msgstr "Deaktiver automatiske oppdateringer"
+
+#: wphotell-managed.php:102
+msgid "Hide WordPress Core updates messages"
+msgstr "Skjul WordPress-kjerneoppdateringer varsler"
+
+#: wphotell-managed.php:104
+msgid "Hide Themes updates messages"
+msgstr "Skjul tema-oppdateringer varsler"
+
+#: wphotell-managed.php:106
+msgid "Hide Plugins updates messages"
+msgstr "Skjul plugins-oppdateringer varsler"
+
+#: wphotell-managed.php:109
+msgid "For developer:"
+msgstr "For utvikler:"
+
+#: wphotell-managed.php:111
+msgid "Show Staging warning if \"staging\" is detected in url"
+msgstr "Vis Staging advarsel hvis \"staging\" blir oppdaget i url"
+
+#: wphotell-managed.php:113
+msgid "Enable debugging mode and show a warning"
+msgstr "Aktiver debug modus og vis en advarsel"
+
+#: wphotell-managed.php:118
+msgid "Save changes"
+msgstr "Lagre endringer"
+
+#: wphotell-managed.php:121
+msgid ""
+"Managed WordPress web hotels means that hosts handle basic hosting "
+"administrative tasks. We recommend consulting with your sites manager before "
+"making changes here."
+msgstr ""
+"Administrerte WordPress webhoteller betyr at verter håndterer grunnleggende "
+"hostingoppgaver. Vi anbefaler å konsultere med administrator for nettstedet "
+"ditt før du gjør endringer her."
+
+#: wphotell-managed.php:124
+msgid "United Works, Oslo"
+msgstr "United Works, Oslo"
+
+#: wphotell-managed.php:192
+#, php-format
+msgid ""
+"<strong>Warning</strong>: You have tried to many times, you can try again in "
+"%1$s."
+msgstr ""
+"<strong>Advarsel</strong>: Du har prøvd for mange ganger, prøv igjen om %1$s."
+
+#: wphotell-managed.php:192
+msgid "Support"
+msgstr "Support"
+
+#: wphotell-managed.php:264
+msgid "second"
+msgstr "sekund"
+
+#: wphotell-managed.php:264
+msgid "seconds"
+msgstr "sekunder"
+
+#: wphotell-managed.php:265
+msgid "minute"
+msgstr "minutt"
+
+#: wphotell-managed.php:265
+msgid "minutes"
+msgstr "minutter"
+
+#: wphotell-managed.php:266
+msgid "hour"
+msgstr "time"
+
+#: wphotell-managed.php:266
+msgid "hours"
+msgstr "timer"
+
+#: wphotell-managed.php:267
+msgid "day"
+msgstr "dag"
+
+#: wphotell-managed.php:267
+msgid "days"
+msgstr "dager"
+
+#: wphotell-managed.php:268
+msgid "week"
+msgstr "uke"
+
+#: wphotell-managed.php:268
+msgid "weeks"
+msgstr "uker"
+
+#: wphotell-managed.php:269
+msgid "month"
+msgstr "måned"
+
+#: wphotell-managed.php:269
+msgid "months"
+msgstr "måneder"
+
+#: wphotell-managed.php:270
+msgid "year"
+msgstr "år"
+
+#: wphotell-managed.php:270
+msgid "years"
+msgstr "årer"
+
+#: wphotell-managed.php:415
+msgid "You are now editing in Staging"
+msgstr "Du redigerer nå i Staging"
+
+#: wphotell-managed.php:421
+msgid "Debugging mode enabled"
+msgstr "Debug modus er aktivert"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wphotell.unitedworks.no/beste-wordpress-hosting/"
+msgstr "https://wphotell.unitedworks.no/beste-wordpress-hosting/"
+
+#. Description of the plugin/theme
+msgid ""
+"We help you as an admin to efficiently manage WordPress websites and "
+"streamline your backend. Show, hide, disable, debug, limit and more, on one "
+"plugin."
+msgstr ""
+"Vi hjelper deg som er admin med å administrere WordPress nettsteder "
+"effektivt og strømlinjeforme backend. Vis, skjul, deaktiver, feilsøk, "
+"begrens og mer i en plugin."
+
+#. Author of the plugin/theme
+msgid "WP Hotell"
+msgstr "WP Hotell"
+
+#. Author URI of the plugin/theme
+msgid "https://wphotell.no/"
+msgstr "https://wphotell.no/"

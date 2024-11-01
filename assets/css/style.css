@@ -1,0 +1,11 @@
+.wphm-wrapper h1 + span {
+    margin-top: 14px;
+    display: inline-block;
+}
+.wphm-footer {
+	font-size: 14px;
+}
+.wphm-footer img {
+	max-width: 70px;
+	vertical-align: bottom;
+}
